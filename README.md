@@ -1,4 +1,4 @@
-# Flood_Risk_in_JEJU
+# AI_Flood_Risk_in_JEJU
 AI-based flood risk assessment reflecting regional characteristics (JEJU Island)   
 연구 진행 사항, 자료, 결과의 공유를 목적으로 운영되는 Repository
 

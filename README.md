@@ -1,5 +1,5 @@
 # AI_Flood_Risk_in_JEJU
-AI-based flood risk assessment reflecting regional characteristics (JEJU Island)   
+AI-based flood risk assessment considering regional characteristics (JEJU Island)   
 연구 진행 사항, 자료, 결과의 공유를 목적으로 운영되는 Repository
 
 * 과제명 : 지역 특성을 반영한 홍수 관리 기술 개발 (Development of flood management technology reflecting regional characteristics)
